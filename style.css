@@ -7,7 +7,14 @@ main > section > ul >li {
   /* height:300px;
   width:250px; */
 }
+body {
+  background-color: black;
+}
 
+main {
+  margin-top: 90px;
+  margin-right: 40px;
+}
 
 li {
   list-style: none;
